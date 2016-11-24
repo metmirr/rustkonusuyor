@@ -32,5 +32,4 @@ fn main() {
 
     let mut y = 3;
     println!("{}", y);
-     
 }
