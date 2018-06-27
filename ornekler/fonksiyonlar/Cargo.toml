@@ -1,0 +1,10 @@
+[package]
+name = "fonksiyonlar"
+version = "0.1.0"
+authors = ["metmirr <metin7087@gmail.com>"]
+
+[dependencies]
+
+[[bin]]
+name = "fonksiyonlar"
+path = "fonksiyonlar.rs"
